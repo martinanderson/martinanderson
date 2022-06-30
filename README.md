@@ -8,5 +8,5 @@
 
 - 🌱 I’m currently exploring and studying **Blockchain and Web3** development - decentralized applications (dApp’s), smart contracts, blockchain interoperability, cryptography, all that good stuff. I have strong conviction about it's eventual mass adoption. In the not so distant future more and more blockchain code will find it's way to the retail hands, for regular business use, personal finance, gaming, entertainment, social media, immutable data storage and so on. Literally thousands of applications and services are already in development Today. Blockchain is the backbone of the 3rd Generation Internet Infrastructure and is empowering users in so many ways, giving the person back the control over he’s personal data, ownership and independence. Indisputable and clear to anyone who has really examined the technology and I'm preparing to ride on that train :)
 
-- 💞️ Please contact me if you think that I can be a useful member of the team on your project. 
+- 💞️ Please contact me if you think that I can be a useful team member on your project. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee
