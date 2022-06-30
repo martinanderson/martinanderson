@@ -6,5 +6,5 @@
 
 - 🌱 I’m currently learning blockchain/web3 development - decentralized applications, smart contracts, blockchain interoperability, all that good stuff. I have reached to the conclusion and have strong conviction about what is going to happen with blockchain technology mass adoption and a third generation Internet applications in the coming years. In the not so distant future more and more blockchain code will find it's way to the retail hands and regular business use. Blockchain is the backbone of the third generation Internet infrastructure and is empowering users in so many ways, giving power back to the people :) Indisputable fact that is clear to anyone that takes the time to really examine and understand that technology. 
 
-- 💞️ I’m looking for a chance to be a part of that storm and commit my code to the flood. Please contact me if you can offer me a chanse to do that. 
+- 💞️ Please contact me if you think that I can be a useful member of the team on your project. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee
