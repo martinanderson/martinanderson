@@ -12,5 +12,7 @@ I am a **Full Stack Web Developer** with more then 20 years of experience. And t
 
 - 🌱 I’m currently actively studying **Blockchain and Web3** development – decentralized applications (dApp’s), smart contracts, blockchain interoperability, cryptography, all that good stuff. I have strong conviction about it's eventual mass adoption. In the not so distant future more and more blockchain code will find it's way to the retail hands, for regular business use, personal finance, gaming, entertainment, social media, immutable data storage and so on. Literally thousands of applications and services are already in development Today and billions is being invested into infrastructure.  A fact that people are still unaware of. Most people still don't have any idea of what's coming. And I'm preparing to catch a ride on that train with great enthusiasm :) And based on my past experience, I definetly know I need (to be a part of) a team. To make a true impact.
 
+The Future is Now. 
+
 - 💞️ Please contact me if you think that I can be a useful team member on your project. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee
