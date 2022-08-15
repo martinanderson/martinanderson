@@ -1,6 +1,6 @@
 👋 Hi, I’m @martinanderson and this is **my Code and Story**.
 
-I am a **Full Stack Web Developer** with more then 20 years of experience. And the next 20 years I see myself continuing that journey in **Web3**.
+I am a **Full Stack Web Developer** with more then 20 years of experience. And the next 20 years I see myself continuing that journey in **Web3**, in the depths of the **Blockchain**.
 
 - 👀 I got interested in coding at the age of about 15y, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and been hooked ever since. 
 
