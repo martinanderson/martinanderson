@@ -16,7 +16,7 @@ This is me, full disclosure:
 
 The Future is Now :)
 
-I'm looking for a Blockchain/Web3 project that might have a use for a developer like me. I have been developing on different tech since the birth of the modern Internet. I work hard and learn fast. I have well equipped home office for remote work and can take a deep dive into your project right now. Dive into your blockchain, study the tech and get to work. We are all early and the future is bright.
+I'm looking for a Blockchain/Web3 project that might have a use for a developer like me. I have been developing on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have well equipped home office for remote work and can take a deep dive into your project right now. Dive into your blockchain, study the tech and get to work. We are all early and the future is bright.
 
 - 💞️ Please contact me if you think that I can be a useful team member on your project. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
