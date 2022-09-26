@@ -2,7 +2,7 @@
 
 ### I have been coding professionally for the last 20+ years, since 1999. That's when I started my own business offering Web Development and related services in Estonia (European Union). The most wired country in the world according to Wired and the birthplace of Skype, Wise etc :)
 
-### I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**, with a birth of new tech and opportunity to grow as a coder. An opportunity for another wave of innovation and awesomness.
+### I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**. I simply see that as an opportunity for another wave of innovation and growth as a coder.
 
 ### Writing code for me is and always has been just awesome. It's a way to challenge yourself intellectually, a way to create. A way to build and contribute. And it's almost never boring :)
 
