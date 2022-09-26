@@ -1,6 +1,6 @@
 # 👋 Hello! I'm @martinanderson — a **Full Stack Web Developer**
 
-### I have been coding professionally for the last 20+ years, since 1999 when I started my own business offering Web Development and related services in Estonia. The most wired country in the world according to Wired :)
+### I have been coding professionally for the last 20+ years, since 1999. That's when I started my own business offering Web Development and related services in Estonia (European Union). The most wired country in the world according to Wired and the birthplace of Skype, Wise etc :)
 
 ### I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**, with a birth of new tech and opportunity to grow as a coder. 
 
