@@ -26,7 +26,9 @@
 
 ## The Future is Now
 
-Do you might have a use for a developer like me? :) I've been building on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have a well equipped home office for remote work and can take a deep dive into your project at a moments notice. Just dive in and get to work. 
+**Do you might have a use for a developer like me?** :) 
+
+I've been building on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have a well equipped home office for remote work and can take a deep dive into your project at a moments notice. Just dive in and get to work. 
 
 - 💞️ Please contact me if you think that I can be a useful member in your team. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
