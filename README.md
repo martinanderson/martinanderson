@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @martinanderson and this is **my Code and Story**.
+# 👋 Hi, I’m @martinanderson and this is **my Code + Story**
 
 ### I am a **Full Stack Web Developer** with more then 20 years of experience. And the next 20 years I see myself continuing that journey in **Web3**, in the depths of the **Blockchain**. 
 
