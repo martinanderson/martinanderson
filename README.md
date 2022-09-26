@@ -3,13 +3,13 @@
 ### I am a **Full Stack Web Developer** with more then 20 years of experience. And the next 20 years I see myself continuing that journey in **Web3**, in the depths of the **Blockchain**. 
 
 
-## This is me, full disclosure :)
+## This is me, a full disclosure :)
 
-- 👀 I got interested in coding at the age of about 15y, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and been hooked ever since. 
+- 👀 I got interested in coding at the age of about 15y, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and have been hooked ever since. 
 
-- **At 1999 I started coding web projects as a job and business**. From the first browser-wars, thru the Web1 and Web2 growth pains and mobile revolution, into today's mobile-first social online commerce experience. I have completed a fully functional Content Management System and a bulk Email Marketing Software from scratch (both PHP), in addition to more general everyday development tasks. The code is here in the Github, check it out. 
+- **At 1999 I started coding web projects as a job and business**. From the first browser-wars, thru the Web1 and Web2 growth pains and mobile revolution, into today's mobile-first social online commerce experience. I have completed a fully functional Content Management System and a bulk Email Marketing Software from scratch (both PHP based), in addition to more typical development tasks. The code is here in the Github, check it out. 
 
-- I guess one of the biggest **recognition's about the quality** of my code has been a successful passing of the security audit ordered by one of my customer, an international insurance giant. 
+- I guess one of the biggest **recognition's about the quality** of my code has been a successful passing of the security audit ordered by one of my customer, an international insurance giant. My CMS was a fully functional WYSIWYG click and shoot enviroment long before even Wordpress existed. Yes, I am kind of proud of that accomplisment :) Took me years to develop and a hundred thousand lines of PHP+JavaScript.
 
 - I have also coded a **cross-platform "Windows-Linux-iOS-Android" app** from a ground up (Python+Kivy). And o course have played around a lot with different tools coding this and that on Windows and Linux desktops over the years. Mostly for fun or out of curiosity.
 
