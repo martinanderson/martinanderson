@@ -34,16 +34,7 @@ Oh PS. My nationality is Estonian, from Estonia in EU, the most wired country in
 ### I'm exited to hear from you. Let's do amazing things together!
 ### Have a beautiful day :)
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
+<!-- 
 Thinking out loud:
 In the not so distant future more and more Web3 and blockchain code will find it's way to the retail hands, in the hands of business users, personal finance sector, gaming, entertainment, social media, data storage and so on. Literally thousands of applications and services are already in development right now and billions is being invested into the infrastructure. The evolution of our beloved Internet is happening as we speak. But it is also a fact that **most** people are still unaware of that. Most people still don't have any idea of what's coming... Exciting times, again :)
+-->
