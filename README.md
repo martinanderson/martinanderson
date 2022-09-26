@@ -12,7 +12,7 @@
 
 - **My strengths** are **PHP, Python, JavaScript/ActiveScript, CSS, MySQL/Postgres/SQLite**, in that order. And of curse the basket of **CSS/JavaScript libraries and frameworks** and the hunger to never stop learning as technologies develop and grow. I enjoy working both on the **Backend and Frontend coding** (also in that order). Have experience with UX. And have completed working products from draft to release. 
 
-- I also feel very comfortable with **Linux and Docker server management**. In the beginning of 2K I also offered hosting services for business users on FreeBSD, but these days simply use my skills to set up Linux VPS or Docker servers, preferably on Debian. I manage to get everything done and run reliably, plus add some code for automation. 
+- I also feel very comfortable with **Linux and Docker server management**. There was a time when I also offered hosting services for business users on FreeBSD, but these days simply use my skills to set up Linux VPS or Docker servers, preferably on Debian. I manage to get everything done and run reliably, plus add some code for automation. 
 
 - I guess one of the biggest **recognition's about the quality** of my code has been a successful passing of the security audit ordered by one of my customer, an international insurance giant. My CMS was a fully functional WYSIWYG click and shoot enviroment long before things like Wordpress even existed. Yes, I am kind of proud of that accomplisment :) Took me years to develop and accumulated to about a hundred thousand lines of PHP+JavaScript when finished.
 
