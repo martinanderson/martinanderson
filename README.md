@@ -18,15 +18,14 @@
 
 - My only regret in life is not releasing my code to Open Source and building a community behind my creations, especially the CMS. That would probably have been awesome and not doing that truly is my single regret in life.  
 
-- 🌱 I’m currently actively studying **Blockchain and Web3** development – dApps, smart contracts, blockchain interoperability, cryptography, all that good stuff. I have strong conviction about the eventual mass adoption of Web3 and Blockchain. And I'm preparing to catch a ride on that train with great enthusiasm :) And based on my past experience, I definitely know I need (to be a part of) a team. To make a true impact.
+- 🌱 I’m currently actively studying **Blockchain and Web3** development – dApps, smart contracts, blockchain interoperability, cryptography, all that good stuff. I have strong conviction about the eventual mass adoption of Web3 and Blockchain. And I'm preparing to catch a ride on that train with great enthusiasm :) It will take years, but it's coming. 
 
 ## The Future is Now :)
 
-Maybe there is a Blockchain/Web3 project that might have a use for a developer like me? :) I have been developing on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have a well equipped home office for remote work and can take a deep dive into your project at a moments notice. Dive into your blockchain, study the tech and get to work. We are all early and the future is bright.
+Do you might have a use for a developer like me? :) I have been developing on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have a well equipped home office for remote work and can take a deep dive into your project at a moments notice. Dive in and get to work.
 
-- 💞️ Please contact me if you think that I can be a useful team member on your project. 
+- 💞️ Please contact me if you think that I can be a useful member in your team. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
-     or Signal/Whatsapp +639663475966 or Twitter DM @MXploresCrypto 
      
 Oh PS. My nationality is Estonian, from Estonia in EU, the most wired country in the world according to Wired :)
 
@@ -36,4 +35,4 @@ Oh PS. My nationality is Estonian, from Estonia in EU, the most wired country in
 
 
 Thinking out loud:
-In the not so distant future more and more Web3 and blockchain code will find it's way to the retail hands, in the hands of business users, personal finance sector, gaming, entertainment, social media, data storage and so on. Literally thousands of applications and services are already in development right now and billions is being invested into the infrastructure. The evolution of our beloved Internet is happening as we speak. But it is also a fact that **most** people are still unaware of that. Most people still don't have any idea of what's coming... Exciting times :)
+In the not so distant future more and more Web3 and blockchain code will find it's way to the retail hands, in the hands of business users, personal finance sector, gaming, entertainment, social media, data storage and so on. Literally thousands of applications and services are already in development right now and billions is being invested into the infrastructure. The evolution of our beloved Internet is happening as we speak. But it is also a fact that **most** people are still unaware of that. Most people still don't have any idea of what's coming... Exciting times, again :)
