@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @martinanderson and this is **my Code + Story**
 
-### I am a **Full Stack Web Developer** with more then 20 years of experience. I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's current continous evolution to **Web3**. Writing code for me is just awesome. A way to challenge yourself intellectually, a way to create, to build and contribute. 
+### I am a **Full Stack Web Developer** with more then 20 years of experience. I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's current continous evolution to **Web3**. Writing code for me is just awesome. It's a way to challenge yourself intellectually, a way to create, to build and contribute. And it's almost never boring :)
 
-## This is me, a full disclosure :)
+## This is me, a full disclosure:
 
 - 👀 I got interested in coding at the age of about 15y, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and have been hooked ever since. 
 
