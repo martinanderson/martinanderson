@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @martinanderson and this is **my Code + Story**
 
-### I am a **Full Stack Web Developer** with more then 20 years of experience. I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continous evolution to **Web3**. Writing code for me is just awesome. It's a way to challenge yourself intellectually, a way to create, to build and contribute. And it's almost never boring :)
+### I am a **Full Stack Web Developer** with more then 20 years of experience. I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**, with a birth of new tech and opportunity to grow as a coder. Writing code for me is just awesome. It's a way to challenge yourself intellectually, a way to create, to build and contribute. And it's almost never boring :)
 
 ## This is me, a full disclosure:
 
@@ -36,4 +36,4 @@ Oh PS. My nationality is Estonian, from Estonia in EU, the most wired country in
 
 
 Thinking out loud:
-In the not so distant future more and more blockchain code will find it's way to the retail hands, for regular business use, personal finance, gaming, entertainment, social media, immutable data storage and so on. Literally thousands of applications and services are already in development right now and billions is being invested into the infrastructure.  A fact that **most** people are still unaware of. Most people still don't have any idea of what's coming...
+In the not so distant future more and more Web3 and blockchain code will find it's way to the retail hands, in the hands of business users, personal finance sector, gaming, entertainment, social media, data storage and so on. Literally thousands of applications and services are already in development right now and billions is being invested into the infrastructure. The evolution of our beloved Internet is happening as we speak. But it is fact that **most** people are still unaware of that. Most people still don't have any idea of what's coming... Exciting times :)
