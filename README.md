@@ -8,7 +8,7 @@
 
 ## This is me, a full disclosure:
 
-- 👀 I got interested in coding at the age of about 15y, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and have been hooked ever since. 
+- 👀 I got interested in coding at the age of about 15-16, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and have been hooked ever since. 
 
 - **At 1999 I started coding web projects as a job and business**. From the first browser-wars, thru the Web1 and Web2 growth pains and mobile revolution, into today's mobile-first social online commerce experience. I have developed a fully functional **Content Management System** (CMS) and a bulk **Email Marketing Software** from scratch (and built a business around them), in addition to numerous other more general development tasks. The code is here in the Github, check it out. 
 
