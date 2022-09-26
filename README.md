@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently actively studying **Blockchain and Web3** development – dApps, smart contracts, blockchain interoperability, cryptography, all that good stuff. I have strong conviction about the eventual mass adoption of Web3 and Blockchain. And I'm preparing to catch a ride on that train with great enthusiasm :) It will take years, but it's coming. 
 
-## The Future is Now :)
+## The Future is Now
 
 Do you might have a use for a developer like me? :) I have been developing on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have a well equipped home office for remote work and can take a deep dive into your project at a moments notice. Dive in and get to work.
 
