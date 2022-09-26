@@ -22,7 +22,7 @@
 
 - My only regret in life is not releasing my code to Open Source and building a community behind my creations, especially the CMS. That would probably have been awesome and not doing that truly is my single and a big regret in life.  
 
-- 🌱 I’m currently actively studying **Blockchain and Web3** development – dApps, smart contracts, blockchain interoperability, cryptography, all that good stuff. I have strong conviction about the eventual mass adoption of Web3 and Blockchain. And I'm preparing to catch a ride on that train with great enthusiasm :) It will take years, but it's coming. 
+- 🌱 I’m currently actively studying **Web3** development – dApps, smart contracts, blockchain, interoperability, cryptography, all that good stuff. I have strong conviction about the eventual mass adoption of Web3 and Blockchain. And I'm preparing to catch a ride on that train with great enthusiasm :) It will take years, but it's coming. 
 
 ## The Future is Now
 
