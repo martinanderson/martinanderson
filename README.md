@@ -2,6 +2,7 @@
 
 ### I am a **Full Stack Web Developer** with more then 20 years of experience. And the next 20 years I see myself continuing that journey in **Web3**, in the depths of the **Blockchain**. 
 
+
 ## This is me, full disclosure :)
 
 - 👀 I got interested in coding at the age of about 15y, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and been hooked ever since. 
@@ -20,9 +21,9 @@
 
 - 🌱 I’m currently actively studying **Blockchain and Web3** development – dApps, smart contracts, blockchain interoperability, cryptography, all that good stuff. I have strong conviction about cryptos eventual mass adoption (and believe the future is multi-chain). And I'm preparing to catch a ride on that train with great enthusiasm :) And based on my past experience, I definitely know I need (to be a part of) a team. To make a true impact.
 
-The Future is Now :)
+## The Future is Now :)
 
-### I'm looking for a Blockchain/Web3 project that might have a use for a developer like me. I have been developing on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have well equipped home office for remote work and can take a deep dive into your project right now. Dive into your blockchain, study the tech and get to work. We are all early and the future is bright.
+I'm looking for a Blockchain/Web3 project that might have a use for a developer like me. I have been developing on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have well equipped home office for remote work and can take a deep dive into your project right now. Dive into your blockchain, study the tech and get to work. We are all early and the future is bright.
 
 - 💞️ Please contact me if you think that I can be a useful team member on your project. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
@@ -31,7 +32,7 @@ The Future is Now :)
 Oh PS. My nationality is Estonian, from Estonia in EU, the most wired country in the world according to Wired :) But that probably doesn't carry any importance in today's remote work environment. Or? For example Estonia has a national digital-ID already over a decade and everything digital comes very natural to us. I guess that might be somewhat important to know :) 
 
 ### I'm exited. Let's do amazing things together in the blockchain!
-### Have a beautiful day :)
+## Have a beautiful day :)
 
 
 
