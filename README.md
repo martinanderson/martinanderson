@@ -26,7 +26,7 @@
 
 ## The Future is Now
 
-**Do you might have a use for a developer like me?** :) 
+**Might you have a use for a developer like me?** :) 
 
 I've been building on different tech since the birth of the modern Internet. **I work hard and learn fast.** I have a well equipped home office for remote work and can take a deep dive into your project at a moments notice. Just dive in and get to work. 
 
