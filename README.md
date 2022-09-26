@@ -14,7 +14,7 @@
 
 - I also feel very comfortable with **Linux and Docker server management**. There was a time when I also offered hosting services for business users on FreeBSD, but these days simply use my skills to set up Linux VPS or Docker servers, preferably on Debian. I manage to get everything done and run reliably, plus add some code for automation. 
 
-- I guess one of the biggest **recognition's about the quality** of my code has been a successful passing of the security audit ordered by one of my customers, an international insurance giant. My CMS was a fully functional WYSIWYG click and shoot enviroment long before things like Wordpress even existed. Yes, I am kind of proud of that accomplisment :) Took me years to develop and accumulated to about a hundred thousand lines of PHP+JavaScript when finished. Yes, about a 100,000 lines of code, typed in line by line over the years.
+- I guess one of the biggest **recognition's about the quality** of my code has been a successful passing of the security audit ordered by one of my customers, an international insurance giant. My CMS was a fully functional WYSIWYG click and shoot enviroment long before things like Wordpress even existed. Yes, I am kind of proud of that accomplisment :) Took me years to develop and accumulated to about a hundred thousand lines of PHP+JavaScript when finished. Yes, about a 100,000 lines of original code, typed in line by line.
 
 - I have also coded a **cross-platform "Windows-Linux-iOS-Android" app** from a ground up (Python+Kivy). And of course have played around a lot with different code doing this and that on Windows and Linux desktops over the years.  
 
