@@ -12,7 +12,7 @@
 
 - **At 1999 I started coding web projects as a job and business**. From the first browser-wars, thru the Web1 and Web2 growth pains and mobile revolution, into today's mobile-first social online commerce experience. I have developed a fully functional **Content Management System** (CMS) and a bulk **Email Marketing Software** from scratch (and built a business around them), in addition to numerous other more general development tasks. The code is here in the Github, check it out. 
 
-- **My strengths** are **PHP, Python, JavaScript/ActiveScript, CSS, MySQL/Postgres/SQLite**, in that order. And of curse the basket of **CSS/JavaScript libraries and frameworks** and the hunger to never stop learning as technologies develop and grow. I enjoy working both on the **Backend and Frontend** (also in that order). Have experience with UX. And have completed working products from draft to release. 
+- **My strengths** are **PHP, Python, JavaScript/ActiveScript, CSS, MySQL/Postgres/SQLite**, in that order. And of curse the basket of **CSS/JavaScript libraries and frameworks** and the hunger to never stop learning as technologies develop and grow. I enjoy working both on the **Backend and Frontend** (also in that order). Have experience with **UX**. And have completed working products from draft to release. 
 
 - I also feel very comfortable with **Linux and Docker server management**. There was a time when I also offered hosting services for business users on FreeBSD, but these days simply use my skills to set up Linux VPS or Docker servers, preferably on Debian. I manage to get everything done and run reliably, plus add some code for automation. 
 
