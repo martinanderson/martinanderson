@@ -1,6 +1,8 @@
-# 👋 Hi, I’m @martinanderson and this is **my Code + Story**
+# 👋 Hello! I'm @martinanderson — a **Full Stack Web Developer**
 
-### I am a **Full Stack Web Developer** with more then 20 years of experience. I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**, with a birth of new tech and opportunity to grow as a coder. 
+### I have been coding professionally for the last 20+ years, since 1999 when I started my own business offering Web Development and related services in Estonia. The most wired country in the world according to Wired :)
+
+### I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**, with a birth of new tech and opportunity to grow as a coder. 
 
 ### Writing code for me is and always has been just awesome. It's a way to challenge yourself intellectually, a way to create. A way to build and contribute. And it's almost never boring :)
 
@@ -28,8 +30,6 @@ Do you might have a use for a developer like me? :) I have been developing on di
 
 - 💞️ Please contact me if you think that I can be a useful member in your team. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
-     
-Oh PS. My nationality is Estonian, from Estonia in EU, the most wired country in the world according to Wired :)
 
 ### I'm exited to hear from you. Let's do amazing things together!
 ### Have a beautiful day :)
