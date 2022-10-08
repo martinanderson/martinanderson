@@ -33,7 +33,7 @@ I've been building on different tech since the birth of the modern Internet. **I
 - 💞️ Please contact me if you think that I can be a useful member in your team. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
 
-### I'm exited to hear from you. Let's do amazing things together!
+### I'm exited to hear from you. Let's build amazing things together!
 ### Have a beautiful day :)
 
 <!-- 
