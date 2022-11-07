@@ -28,7 +28,7 @@
 
 ## I learn fast and Work hard
 
-My experience and background makes learning and working with anything coding related easy. What ever stacks or tools are required for working with your projects. I have done that most of my life, professionally since 1999. 
+My experience and background makes learning and working with anything coding related easy. What ever stacks or tools are required for working with your projects, requires a simple deepdive on my part. I have done that most of my life, professionally since 1999. 
 
 **Might you have a use for a developer like me?** :) 
 
