@@ -4,7 +4,7 @@
 
 ### I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**. I simply see that as an opportunity for another wave of innovation and growth as a coder. 
 
-### Writing code for me is and always has been just awesome. It's a way to challenge yourself intellectually, a way to create. To learn, deepdive, build and contribute. And it's almost never boring :) Most of my cureer I have operting as a one man army with the exeption of accosional partnerships, but today Im looking to be a part of a Team.
+### Writing code for me is and always has been just awesome. It's a way to challenge yourself intellectually, a way to create. To learn, explore, build and contribute. And it's almost never boring :) Most of my cureer I have operting as a one man army with the exeption of accosional partnerships, but today Im looking to be a part of a Team.
 
 ## This is me, a long read but a full disclosure:
 
