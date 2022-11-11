@@ -16,15 +16,17 @@
 
 - **My strengths** are **PHP, Python, JavaScript/ActiveScript, CSS, MySQL/Postgres/SQLite**, in that order. And of curse the basket of **CSS/JavaScript libraries and frameworks** and the hunger to never stop learning as technologies develop and grow. I enjoy working both on the **Backend and Frontend** and I take pride in writing my code. Have experience with **UX**. And have completed working products from drafting functionality, development to release. As I already mentioned.
 
-- I guess one of the biggest **recognition's about the quality** of my code has been a successful passing of the security audit ordered by one of my customers, an international insurance giant. My CMS was created as a fully functional cross-platform WYSIWYG click and shoot environment long before things like Wordpress even existed and web browsers were fighting over market dominance (the Browser Wars). Yes, I am kind of proud of that accomplishment :) Took me years to develop and accumulated to about a hundred thousand lines of PHP+JavaScript when finished. Yes, about a 100,000 lines of original code, typed in line by line.
+- I guess one of the biggest **recognition's about the quality** of my code has been a successful passing of the security audit ordered by one of my customers, an international insurance giant. My CMS was created as a fully functional cross-platform WYSIWYG click and shoot environment long before things like Wordpress even existed and web browsers were fighting over market dominance (the Browser Wars). Yes, I am kind of proud of that accomplishment :) Took me years to develop and accumulated to about a hundred thousand lines of PHP+JavaScript when finished. Yes, about a 100,000 lines of original code, typed in line by line. Security, users and groups, template engine, modules, content building blocks, file manager, visitor statistics etc etc.
 
 - I have also coded a **cross-platform "Windows-Linux-iOS-Android" app** from a ground up (Python+Kivy). And of course have played around a lot with different code doing this and that on Windows and Linux desktops over the years.  
 
-- I also feel very comfortable with **Linux and Docker server management**. There was a time when I also offered hosting services for business users on FreeBSD and Linux, but these days simply use my skills to set up Linux VPS or Docker servers, preferably on Debian. I have managed to get everything done and run reliably over the years. Knock on wood.
+- I also feel very comfortable with **Linux and Docker server management**. There was a time when I offered hosting services for business users on FreeBSD and Linux, but these days simply use my skills to set up Linux VPS or Docker servers, preferably on Debian. I have managed to get everything done and run reliably over the years. Knock on wood.
 
-- My only regret in life is not releasing my code to Open Source and building a community and a team behind my creations, especially the CMS. That would probably have been awesome and not doing that truly is my single and a big regret in life. A mistake I'm not planning to repeat.
+- My only regret in life is not releasing my code to Open Source and building development team and a community behind my creations, especially the CMS. That would probably have been awesome and not doing that truly is my single and a big regret in life. A mistake I'm not planning to repeat. 
 
-- 🌱 I’m currently actively studying **Web3** development – dApps, smart contracts, blockchain, interoperability, cryptography, all that good stuff. I have strong conviction about it's eventual mass adoption. And I'm preparing to catch a ride on that train with great enthusiasm :) It will take years, but it's coming while passing the usual growth pains of a new technology.
+- 🌱 I’m currently actively studying **Web3** development – dApps, smart contracts, blockchain, interoperability, cryptography, all that good stuff. I have strong conviction about it's eventual mass adoption. And I'm preparing to catch a ride on that train with great enthusiasm :) It will take years, but it's coming while passing the usual growth pains of a new technology. But today it has become an absolute cerainty, that blockchains are here to stay and will be the foundation for the next wave of amazing innovation and development. I regress.
+
+- Additionally I have an extensive Marketing experience, but code is where my heart is. My other interests include following global politcs, keeping my eye on the economy macro picture and money markets, always explore opportunities for self improvement and growth, I like swimming, spending time alone thinking and taking long walks :)
 
 ## I learn fast and Work hard
 
@@ -32,15 +34,10 @@ My experience and background makes learning and working with anything coding rel
 
 **Might you have a use for a developer like me?** :) 
 
-I've been building on different tech since the birth of the modern Internet. I have a well equipped home office for remote work and can take a deep dive into your project at a moments notice. Just dive in and get to work. 
+I've been building on different tech since the birth of the modern Internet. I have a well equipped home office for remote work and can get to work at a moments notice. Just take a deepdive into your project and stacks and get to work. I am relativly modest, speak what I think, dedicated, pay attention to details and take pride in my code.
 
 - 💞️ Please contact me if you think that I can be a useful member in your team. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
 
 ### I'm exited to hear from you. Let's build amazing things together!
 ### Have a beautiful day :)
-
-<!-- 
-Thinking out loud:
-In the not so distant future more and more Web3 and blockchain code will find it's way to the retail hands, in the hands of business users, personal finance sector, gaming, entertainment, social media, data storage and so on. Literally thousands of applications and services are already in development right now and billions is being invested into the infrastructure. The evolution of our beloved Internet is happening as we speak. But it is also a fact that **most** people are still unaware of that. Most people still don't have any idea of what's coming... Exciting times, again :)
--->
