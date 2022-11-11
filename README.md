@@ -1,4 +1,4 @@
-# 👋 Hello! I'm @martinanderson — a **Full Stack Developer**
+# 👋 Hello! I'm @martinanderson — a **Full-Stack Developer**
 
 ### I have been coding professionally for the last 20+ years, since 1999. That's when I started my own business offering Web Development and related services in Estonia (European Union). The most wired country in the world according to Wired and the birthplace of Skype, Wise etc :)
 
@@ -10,7 +10,7 @@
 
 - 👀 I got interested in coding at the age of about 15-16, when I got a Commodore64 PC from the flee market, a simple rig connected to a 90's curved-screen TV :)  Everything got started from a bunch of floppy disks, a Commodore-Basic programming textbooks and a few magazines that came with it, no Internet access back then. Coded myself (after 2 years in) a simple ASCII ping-pong game and a password protected diary :) and have been hooked ever since. 
 
-- Over the years I have done and been into just about everything. Managing Windows NT, FreeBSD and Linux servers, bulding office networks, intra- and extranets, building or fixing hardware, setting up my own 1U hostng server rack, coding this or that on Windows, Linux and Android, scripting and coding, building Websites, setting up/working with/building on different setups and stacks. There is no short way of describing everything. From hardware, networking to Full Stack coding on different platforms.
+- Over the years I have done and been into just about everything. Managing Windows NT, FreeBSD and Linux servers, bulding office networks, intra- and extranets, building or fixing hardware, setting up my own 1U hostng server rack, coding this or that on Windows, Linux and Android, scripting and coding, building Websites, setting up/working with/building on different setups and stacks. There is no short way of describing everything. From hardware, networking to Full-Stack coding on different platforms.
 
 - **At 1999 I started coding web projects as a job and business**. From the first browser-wars, thru the Web1 and Web2 growth pains and mobile revolution, into today's mobile-first social online commerce experience. I have developed a fully functional **Content Management System** (CMS) and a bulk **Email Marketing Software** from scratch (and built a business around them), in addition to numerous other development tasks. The code is here in the Github, check it out. About 100k lines of PHP and JavaScript on MySQL LAMP setup, a fully functional CMS, my flagship product for 10+ years.
 
