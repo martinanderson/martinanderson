@@ -1,6 +1,6 @@
 # 👋 Hello! I'm @martinanderson — a **Full-Stack Developer**
 
-### I have been coding professionally for the last 20+ years, since 1999. That's when I started my own business offering Web Development and related services in Estonia (European Union). The most wired country in the world according to Wired and the birthplace of Skype, Wise etc :)
+### I have been coding professionally for the last 20+ years, since 1999. That's when I started my own business offering Web Development and related services in Estonia (European Union). That year is the start of my professional journey. 
 
 ### I've been hands-on thru the births and growth of Web1 and Web2. The today's modern Internet. And right now I'm excited to witness it's continuous evolution to **Web3**. I see that as an extraordinary opportunity for a growth as a coder. 
 
@@ -30,7 +30,7 @@
 
 ## I learn fast and Work hard
 
-My experience and background makes learning and working with anything coding related easy. What ever stacks or tools are required for working with your projects, requires a simple deepdive on my part. I have done that most of my life, professionally since 1999. 
+My experience and background makes learning and working with anything coding related easy. What ever stacks or tools are required for working with your projects, requires a "simple" deepdive on my part. And I'm happy to dive in hard :) 
 
 **Might you have a use for a developer like me?** :) 
 
