@@ -34,7 +34,7 @@ My experience and background makes learning and working with anything coding rel
 
 **Might you have a use for a developer like me?** :) 
 
-I've been building on different tech since the birth of the modern Internet. I have a well equipped home office for remote work and can get to work at a moments notice. Just take a deepdive into your project and stacks and get to work. I am relativly modest, speak what I think, dedicated, pay attention to details and take pride in my code.
+I've been building on different tech since the birth of the modern Internet. I have a well equipped home office for remote work and can get to work at a moments notice. I'm relativly modest, speak what I think, dedicated, pay attention to details and take pride in my code.
 
 - 💞️ Please contact me if you think that I can be a useful member in your team. 
 - 📫 Best way to reach me is by e-mail martin@all-tec.ee 
